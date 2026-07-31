@@ -1,0 +1,18 @@
+{
+  "name": "workplan",
+  "description": "以自然語言介面操作 Apple 提醒事項與行事曆的排程工具。偵測行事曆的手動變更並據此調整後續行程。macOS 專用,安裝後需執行 setup.sh。",
+  "version": "0.1.0",
+  "author": {
+    "name": "TCcodemaster"
+  },
+  "homepage": "https://github.com/TCcodemaster/claude-workplan",
+  "license": "MIT",
+  "keywords": [
+    "calendar",
+    "reminders",
+    "scheduling",
+    "macos",
+    "eventkit",
+    "productivity"
+  ]
+}

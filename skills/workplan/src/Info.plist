@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>com.workplan.wpkit</string>
+  <key>CFBundleName</key><string>wpkit</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>NSCalendarsFullAccessUsageDescription</key><string>workplan 需要讀寫行事曆,才能避開已被佔用的時段並建立重點任務的事件。</string>
+  <key>NSRemindersFullAccessUsageDescription</key><string>workplan 需要讀寫提醒事項,才能把各專案任務平鋪成待辦並追蹤完成狀態。</string>
+</dict>
+</plist>

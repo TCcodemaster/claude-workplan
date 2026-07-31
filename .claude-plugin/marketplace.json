@@ -1,0 +1,13 @@
+{
+  "name": "workplan",
+  "owner": {
+    "name": "TCcodemaster"
+  },
+  "plugins": [
+    {
+      "name": "workplan",
+      "source": "./",
+      "description": "以自然語言介面操作 Apple 提醒事項與行事曆的排程工具。偵測行事曆的手動變更並據此調整後續行程。macOS 專用,安裝後需執行 setup.sh 編譯 EventKit 工具並授予行事曆完整存取權限。"
+    }
+  ]
+}
